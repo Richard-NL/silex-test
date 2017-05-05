@@ -1,0 +1,14 @@
+{
+  "require": {
+    "silex/silex": "~2.0",
+    "phpro/soap-client": "^0.4.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  },
+  "require-dev": {
+    "zendframework/zend-code": "^3.0.4"
+  }
+}
